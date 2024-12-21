@@ -22,6 +22,9 @@ SivuTruco APK destaca como un potenciador de juegos para entusiastas de los jueg
 ## Jugabilidad de SivuTruco APK
 SivuTruco APK no es un juego independiente, sino una herramienta de soporte para títulos populares. Así es como mejora la jugabilidad:
 
+![sivutruco-apk-download](https://github.com/user-attachments/assets/7bfaa8bc-b245-498c-b127-046468809881)
+
+
 ### Características del Mod
 - Genera códigos dentro del juego para Free Fire.
 - Ofrece puntería predictiva para 8 Ball Pool.
